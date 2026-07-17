@@ -1,6 +1,8 @@
 # miniguia-dio-estudos-notebooklm
 Mini Guia de Estudos Criado no NotebookLM Para o Bootcamp Bradesco da DIO
 
+https://notebooklm.google.com/notebook/cc8f3de4-16e8-4473-bbaa-969c64e8459b
+
 The Language of the Unconscious and Jungian Archetypes
 
 Fontes:
